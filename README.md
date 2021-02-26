@@ -16,11 +16,11 @@ A progammer's life is filled with the endless learning and this is what I aim to
 3. Javascript
 
 ### Frameworks I'm competent in:
-1. Laravel
-2. Vue.js
-3. Django
-4. Boostrap
-5. Tailwind
+1. Laravel (PHP)
+2. Vue.js (Javascript)
+3. Django (Python)
+4. Bootstrap (CSS)
+5. Tailwind (CSS)
 
 <!---
 Rockforge/Rockforge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
