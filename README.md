@@ -1,8 +1,9 @@
+## Overview
 - 👋 Hi, I’m @Rockforge or you can call me Chan.
 - 👀 I’m interested in coding, trying to understand the life, reading, and just lazing around from time to time.
-- 🌱 I’m currently trying to learn everything possible within the field of programming
+- 🌱 I’m currently trying to learn everything possible within the field of programming with the limited time I have.
 
-# A competent programmer
+## :computer: A competent programmer
 One can never truly master the field of programming, so I like to call myself competent, to say the least. 
 
 I always yearn to understand more about the technologies that are appearing rapidly throughout the industry in the hopes that I can use them in my daily life as a programmer, but one must also understand to not fatigue themselves with all of these, as it will lead to their downfall soon enough. Distracting them with these new flashy and technological marvels may steer them away from what is really important, and that is learning.
