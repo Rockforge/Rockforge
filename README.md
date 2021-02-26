@@ -1,6 +1,6 @@
 ## :computer: Overview
 - 👋 Hi, I’m @Rockforge or you can call me Chan/Chansters.
-- 👀 I’m interested in coding, trying to understand the life, reading, and just lazing around from time to time.
+- 👀 I’m interested in coding, reading, and just lazing around from time to time.
 - 🌱 I’m currently trying to learn everything possible within the field of programming with the limited time I have.
 
 ### A competent programmer
