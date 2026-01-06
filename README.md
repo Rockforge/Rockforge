@@ -1,28 +1,12 @@
-## :computer: Overview
-- 👋 Hi, I’m @Rockforge or you can call me Chan/Chansters.
-- 👀 I’m interested in coding, reading, and just lazing around from time to time.
-- 🌱 I’m currently trying to learn everything possible within the field of programming with the limited time I have.
+💻 Overview
 
-### A competent programmer
-One can never truly master the field of programming, so I like to call myself competent, to say the least. 
+👋 Hi, I’m Chan — also known as @Rockforge (or Chansters if you’re feeling friendly).
 
-I always yearn to understand more about the technologies that are appearing rapidly throughout the industry in the hopes that I can use them in my daily life as a programmer, but one must also understand to not fatigue themselves with all of these, as it will lead to their downfall soon enough. Distracting them with these new flashy and technological marvels may steer them away from what is really important, and that is learning.
+👀 I’m interested in coding, reading, and occasionally doing absolutely nothing to reset my brain.
 
-A progammer's life is filled with the endless learning and this is what I aim to do.
+🌱 I’m continuously learning and exploring the field of programming, balancing curiosity with practicality. Technology evolves fast, and while it’s exciting to chase new tools and trends, I believe real growth comes from understanding fundamentals deeply rather than burning out on every shiny new thing.
 
-### Languages I'm competent in:
-1. PHP
-2. Python
-3. Javascript
+I describe myself as a competent programmer.
+Not because I know everything—but because I know that mastering programming is a lifelong process. The learning never ends, and that’s exactly what keeps it interesting.
 
-### Frameworks I'm competent in:
-1. Laravel (PHP)
-2. Vue.js (Javascript)
-3. Django (Python)
-4. Bootstrap (CSS)
-5. Tailwind (CSS)
-
-<!---
-Rockforge/Rockforge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A programmer’s life is defined by continuous learning, experimentation, and refinement—and that’s the path I aim to stay on.
